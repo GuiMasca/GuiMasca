@@ -1,5 +1,10 @@
 # 👨‍💻 Guilherme Mascaretti (@GuiMasca)
 
+
+![futabagif](https://github.com/user-attachments/assets/55309d25-121f-40b2-a1fa-64fa8aaf000d)
+
+
+
 Sou estudante de *Engenharia de Computação* na *Pontifícia Universidade Católica de Campinas (PUC-Campinas)*, atualmente cursando o **2º ano da graduação**. Minha formação une uma base sólida em exatas com experiências práticas que abrangem desde circuitos eletrônicos até o desenvolvimento de soluções de software completas.
 
 ---
@@ -74,9 +79,7 @@ Experiência em projetos acadêmicos com fontes internacionais e colaboração m
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMasca&layout=compact&theme=radical&hide_border=true" />
 <img width="97%" src="https://streak-stats.demolab.com/?user=GuiMasca&theme=radical&hide_border=true" />
 
-<p align="center">
-  <img src="https://64.media.tumblr.com/c8729e028d0d880a5066f134cccb40da/ac691d8c6cbcb66b-ff/s400x600/7dda33fa6fed0022ec31dadb6cb14e4f738f9515.gif" width="150px" alt="Donkey Kong andando">
-</p>
+
 
 </div>
 
