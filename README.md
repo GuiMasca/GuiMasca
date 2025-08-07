@@ -1,7 +1,7 @@
 # 👨‍💻 Guilherme Mascaretti (@GuiMasca)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/55309d25-121f-40b2-a1fa-64fa8aaf000d" width="150px" alt="gif animado">
+  <img src="https://github.com/user-attachments/assets/55309d25-121f-40b2-a1fa-64fa8aaf000d" width="500px" alt="gif animado">
 </p>
 
 
