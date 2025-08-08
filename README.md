@@ -1,8 +1,5 @@
 # 👨‍💻 Guilherme Mascaretti (@GuiMasca)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/55309d25-121f-40b2-a1fa-64fa8aaf000d" width="500px" alt="gif animado">
-</p>
 
 
 
@@ -85,6 +82,10 @@ Experiência em projetos acadêmicos com fontes internacionais e colaboração m
 
 </div>
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/55309d25-121f-40b2-a1fa-64fa8aaf000d" width="450px" alt="gif animado">
+</p>
 ---
 
 ## 🏆 Trophies
