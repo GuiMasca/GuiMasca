@@ -1,10 +1,8 @@
 # 👨‍💻 Guilherme Mascaretti (@GuiMasca)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/55309d25-121f-40b2-a1fa-64fa8aaf000d" width="450px" alt="gif animado">
+  <img src="https://github.com/user-attachments/assets/55309d25-121f-40b2-a1fa-64fa8aaf000d" width="300px" alt="gif animado">
 </p>
-
-
 
 Sou estudante de *Engenharia de Computação* na *Pontifícia Universidade Católica de Campinas (PUC-Campinas)*, atualmente cursando o **2º ano da graduação**. Minha formação une uma base sólida em exatas com experiências práticas que abrangem desde circuitos eletrônicos até o desenvolvimento de soluções de software completas.
 
@@ -78,12 +76,10 @@ Experiência em projetos acadêmicos com fontes internacionais e colaboração m
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GuiMasca&show_icons=true&theme=radical&hide_border=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMasca&layout=compact&theme=radical&hide_border=true" />
-<img width="97%" src="https://streak-stats.demolab.com/?user=GuiMasca&theme=radical&hide_border=true" />
-
-
+<br>
+<img width="80%" src="https://streak-stats.demolab.com?user=GuiMasca&theme=radical&hide_border=true" />
 
 </div>
-
 
 ---
 
@@ -137,4 +133,3 @@ Projetos simples de front-end com HTML, CSS e JavaScript.
 Se você curtiu algum projeto, quer desenvolver algo novo ou só trocar uma ideia sobre computação, desenvolvimento ou eletrônica — **vamos conversar!**
 
 📬 Estou sempre aberto a conexões, parcerias e novas oportunidades.
-
