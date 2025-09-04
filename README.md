@@ -1,7 +1,7 @@
 # 👨‍💻 Guilherme Mascaretti (@GuiMasca)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/55309d25-121f-40b2-a1fa-64fa8aaf000d" width="350px" alt="gif animado">
+  <img src="https://github.com/user-attachments/assets/55309d25-121f-40b2-a1fa-64fa8aaf000d" width="400px" alt="gif animado">
 </p>
 
 Sou estudante de *Engenharia de Computação* na *Pontifícia Universidade Católica de Campinas (PUC-Campinas)*, atualmente cursando o **2º ano da graduação**. Minha formação une uma base sólida em exatas com experiências práticas que abrangem desde circuitos eletrônicos até o desenvolvimento de soluções de software completas.
